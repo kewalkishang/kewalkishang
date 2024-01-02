@@ -1,8 +1,18 @@
-# Hi there, I'm Kewal! 👋
-I'm a versatile software engineer with a passion for front-end and creative projects. Specializing in :
-- Mobile/Web application development.
-- AR/VR experiences.
-- AI 
+<h1 align="center"> Hi there 👋, I'm Kewal! </h1>
+A versatile software engineer with a passion for front-end and creative projects. Specializing in :
+<ul>
+  <li>
+    Mobile/Web application development
+  </li>
+  <li>
+    AR/VR experiences
+  </li>
+  <li>
+    AI
+  </li>
+</ul>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kewalkishang" alt="kewalkishang" /> </p>
 
 ## 💼 Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
