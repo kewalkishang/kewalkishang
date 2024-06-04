@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋, I'm Kewal! </h1>
-A versatile software engineer with a passion for front-end and creative projects. Specializing in :
+A versatile software engineer with a passion for Full-Stack and creative projects. Specializing in :
 <ul>
   <li>
-   Full Stack Mobile/Web application development
+   Mobile/Web application development
   </li>
   <li>
     AR/VR experiences , Game Dev
@@ -49,8 +49,9 @@ A versatile software engineer with a passion for front-end and creative projects
 ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity)
 
 
-## 📚 Latest Blog Posts
-- Coming soon...
+## 📚 Latest Blogs/Posts
+- Medium : [Blogs](https://medium.com/@kewalkishan)
+- LinkedIn : [Posts](https://www.linkedin.com/in/kewalkishang/recent-activity/all/)
 
 ## 📫 How to Reach Me
 - Email: kewalkishang@gmail.com
