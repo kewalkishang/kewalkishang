@@ -2,12 +2,15 @@
 A versatile software engineer with a passion for front-end and creative projects. Specializing in :
 <ul>
   <li>
-    Mobile/Web application development
+   Full Stack Mobile/Web application development
   </li>
   <li>
-    AR/VR experiences
+    AR/VR experiences , Game Dev
   </li>
   <li>
+    Distributed Systems
+  </li>
+   <li>
     AI
   </li>
 </ul>
